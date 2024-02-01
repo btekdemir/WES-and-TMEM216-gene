@@ -1,0 +1,1 @@
+Arg12Cys,Arg12His,Arg12Leu,Gly16Ala,Leu53Arg,Arg73Leu,Arg85Ter,Arg73His,Gly77Ala,Thr78LysfsTer30,Leu133Ter,Arg73Cys,Leu114Arg
